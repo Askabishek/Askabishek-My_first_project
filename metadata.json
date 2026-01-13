@@ -1,0 +1,5 @@
+{
+  "name": "TaskFlow MD3",
+  "description": "A comprehensive task manager following Material Design 3 guidelines with local persistence.",
+  "requestFramePermissions": []
+}
